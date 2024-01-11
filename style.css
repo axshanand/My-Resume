@@ -1,5 +1,7 @@
 body {
-
+    
+        background-color: rgba(246, 224, 224, 0.405);
+    
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
     font-size: 12px;
@@ -33,7 +35,7 @@ hr {
     height: 1px;
 }
  
-h1, h2, h3 {
+h1, h2, h3 {background-color: rgba(202, 110, 110, 0.267);
     font-weight: 100;
     margin-bottom: 0;
 }
@@ -44,7 +46,7 @@ main {
     margin-top: 3em;
 }
  
-h1 {
+h1 {background-color: rgba(236, 136, 136, 0.126);
     font-size: 3em;
     letter-spacing: .1em;
     padding-top: 1em;
